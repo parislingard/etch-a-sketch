@@ -1,0 +1,32 @@
+body {
+    background-color: pink;
+    text-align: center;
+    font-family: 'Lato';
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+}
+
+.gridButtons {
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.penButtons {
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.container {
+    display: grid;
+    justify-content: center;
+    text-align: center;
+}
+
+.cell {
+    display: flex;
+    border: .2px solid silver;
+    background-color: #FFF;
+}
