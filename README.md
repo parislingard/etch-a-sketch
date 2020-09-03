@@ -1,2 +1,5 @@
-# etch-a-sketch
-  Etch-a-skecth web app using Javascript, HTML, and CSS - assignment from the Odin Project
+# Etch-a-Sketch
+  The Odin Project JavaScript Etch-a-Sketch Assignment
+
+# Skills Used
+  HTML5, CSS3, JavaScript
