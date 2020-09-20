@@ -2,4 +2,7 @@
   The Odin Project JavaScript Etch-a-Sketch Assignment
 
 # Skills Used
-  HTML5, CSS3, JavaScript
+  HTML, CSS, JavaScript
+
+# Live Link
+https://parislingard.github.io/etch-a-sketch/
